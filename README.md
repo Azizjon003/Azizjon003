@@ -57,14 +57,14 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ```text
 JavaScript   16 hrs 12 mins   ██████████████▒░░░░░░░░░░   57.50 %
-React        10 hrs 50 mins   ██████████▓░░░░░░░░░░░░░░   42.46 %
+NodeJs        10 hrs 50 mins   ██████████▓░░░░░░░░░░░░░░   42.46 %
 ```
 
 <!-- END_SECTION:waka -->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/rustamovumid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/azizjon003" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
 
