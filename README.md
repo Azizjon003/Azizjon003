@@ -80,7 +80,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="center">
   <a href="https://github.com/Azizjon003?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Azizjon003"/></a>
-  <a href="https://github.com/IbrohimFayzullayev?tab=followers">
+  <a href="https://github.com/azizjon003?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Azizjon003?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
   <a href="https://github.com/Azizjon003">
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Azizjon003&style=for-the-badge"/></a>
@@ -90,7 +90,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## Snake Game
 
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/azizjon003/azizjon003/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Azizjon003&show_icons=true&theme=gotham" alt="Azizjon003" />
 
