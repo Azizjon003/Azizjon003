@@ -88,9 +88,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <br />
 
-## Snake Game
-
-![Snake animation](https://github.com/azizjon003/azizjon003/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Azizjon003&show_icons=true&theme=gotham" alt="Azizjon003" />
 
