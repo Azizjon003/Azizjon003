@@ -20,9 +20,9 @@
 </a> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> I’m currently learning Javascript/React.js
 - 💞️ I’m looking to collaborate on OpenSource.
-- 📫 | Write to me: <a href="https://t.me/Ibrohim_Fayzullayev">Telegram</a> -->
+- 📫 | Write to me: <a href="https://t.me/Aazizjon1311">Telegram</a> -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=IbrohimFayzullayev.IbrohimFayzullayev)
+
 
 hi, i'm <b> Azizjon Aliqulov</b>, a passionate self-taught full stack web developer and a freelance software engineer from Uzbekistan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
