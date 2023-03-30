@@ -84,15 +84,17 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 
 <br />
+<br />
 
+## Snake Game
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Azizjon003&show_icons=true&theme=gotham" alt="Azizjon003" />
 
-## 💻 Last month's activity
+
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
 <!-- https://github.com/clevercoderr/github-readme-activity-graph -->
 
-<a href=""><img alt="AzizjonAliqulov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Azizjon003&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <!--  |                                                     Preview                                                     |
  | :-------------------------------------------------------------------------------------------------------------: |
