@@ -4,9 +4,6 @@
 <!-- <h1 align="center">Hi , </h1><br /> -->
 <h1> Hey there 👋, I'm Azizjon</h1>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/">
-  <img align="left" alt="Azizjon| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 
 
 <!-- <a href="https://discord.gg/">
@@ -59,12 +56,6 @@ NodeJs        10 hrs 50 mins   ██████████▓░░░░░�
 
 <!-- END_SECTION:waka -->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/azizjon003" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-
 <!-- TODO-IST:START -->
 
 🏆 7,995 Karma Points
@@ -93,24 +84,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
-<!-- https://github.com/clevercoderr/github-readme-activity-graph -->
+-- https://github.com/clevercoderr/github-readme-activity-graph -->
 
-
-<!--  |                                                     Preview                                                     |
- | :-------------------------------------------------------------------------------------------------------------: |
- | ![image](https://git-trophy-tests.vercel.app/?username=ThnksCJ&theme=algolia&no-frame=true&column=7)![image](https://user-images.githubusercontent.com/20955511/103046275-5c3c6080-4590-11eb-8c86-0656d3477a56.png)                                                         |
-
-
-
-<!-- **IbrohimFayzullayev/IbrohimFayzullayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- <h4> Here are some ideas to get you started: </h4> -->
-
-<!-- - 🔭 I’m currently working on Frontend Development -->
-<!-- - 🌱 I’m currently learning React Js  -->
-<!-- - 👯 I’m looking to collaborate on OpenSource -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about Frontend Development -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
